@@ -3,6 +3,8 @@ An Attempt to automate compliance preparedness for organizations using python
 
 This is certainly an undertaking for the ages as this is no easy task. 
 
+Below are the steps required to make this happen. 
+
    1 Define the data model: The first step is to define the data model that will store the necessary data. This includes creating tables for policies, procedures, roles and responsibilities, assets, and incidents, and defining the relationships between them.
 
    2 Create a user interface: Once you have defined the data model, you can create a user interface that allows users to manage the data. You can use a web framework like Django or Flask to build a web-based interface that allows users to create, edit, and delete records.

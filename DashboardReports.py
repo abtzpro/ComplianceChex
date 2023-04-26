@@ -1,5 +1,5 @@
 # please note the DashboardReports.py file was
-# built seperately from the rest if the system
+# built seperately from the rest of the system
 # and will have to be tied into the automation system
 # by means of slight modifications
 

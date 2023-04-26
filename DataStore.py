@@ -1,3 +1,5 @@
+# please note, the database file will have to be populated below woth the required database information and currently stands as a placeholder within the code
+
 import sqlite3
 
 # create a database

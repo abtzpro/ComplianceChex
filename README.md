@@ -14,3 +14,6 @@ This is certainly an undertaking for the ages as this is no easy task.
    5 Generate reports and dashboards: Finally, you will need to generate reports and dashboards to monitor the effectiveness of the information security program and identify areas for improvement. You can use a reporting framework like JasperReports or Tableau to generate these reports and dashboards.
 
 @abtzpro @AdamR @HelloSecurity created a basic boilerplate version of the required compliance preperation automation scripts. With a little customization, this methodology of compliance preperation automation could benefit many SMB and Enterprise organizations and help to save money where possible regarding compliance preparations.
+
+
+## Please note, ComplianceChex is still a work in progress and as such, will need customization and is subject to bugs, errors, and unexpected hijinx. Please refrain from using ComplianceChex in a production environment until thorough testing can be completed and required changes made.

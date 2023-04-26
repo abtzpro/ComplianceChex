@@ -13,4 +13,4 @@ This is certainly an undertaking for the ages as this is no easy task.
 
    5 Generate reports and dashboards: Finally, you will need to generate reports and dashboards to monitor the effectiveness of the information security program and identify areas for improvement. You can use a reporting framework like JasperReports or Tableau to generate these reports and dashboards.
 
-Ive created a basically boilerplate version of the required automation scripts. With a little customization, this methodology of automation could benefit many SMB and Enterprise organizations and help to save money where possible regarding compliance preparations.
+Ive created a basic boilerplate version of the required automation scripts. With a little customization, this methodology of automation could benefit many SMB and Enterprise organizations and help to save money where possible regarding compliance preparations.

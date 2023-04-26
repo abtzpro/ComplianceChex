@@ -1,3 +1,7 @@
+# please note, the import data from and to system functions
+# will have to be modified/added and currently stand as a 
+# placeholder within the code
+
 import requests
 import json
 

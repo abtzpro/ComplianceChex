@@ -1,5 +1,5 @@
 # ComplianceChex
-An Attempt to automate compliance preparedness for organizations using python
+An Attempt to automate ISO 27002 compliance preparedness for organizations using python
 
 This is certainly an undertaking for the ages as this is no easy task. 
 

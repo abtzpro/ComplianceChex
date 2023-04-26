@@ -1,3 +1,11 @@
+# please note the DashboardReports.py file was
+# built seperately from the rest if the system
+# and will have to be tied into the automation system
+# by means of slight modifications
+
+# please note the email report function will need to be
+# modified before testing and stands as a placeholder
+
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
